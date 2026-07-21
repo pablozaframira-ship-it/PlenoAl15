@@ -1,0 +1,2859 @@
+{
+  "temporada": "2025-2026",
+  "liga": "La Liga EA Sports",
+  "total_equipos": 20,
+  "equipos": [
+    {
+      "id": 1,
+      "nombre": "Real Madrid",
+      "ciudad": "Madrid",
+      "entrenador": "Xabi Alonso",
+      "jugadores": [
+        {
+          "nombre": "Thibaut Courtois",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Andriy Lunin",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Fran González",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Dani Carvajal",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Trent Alexander-Arnold",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Raúl Asencio",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Éder Militão",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Antonio Rüdiger",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "David Alaba",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Dean Huijsen",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Álvaro Carreras",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Fran García",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Ferland Mendy",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Jude Bellingham",
+          "posicion": "Mediocentro Ofensivo"
+        },
+        {
+          "nombre": "Aurélien Tchouaméni",
+          "posicion": "Mediocentro Defensivo"
+        },
+        {
+          "nombre": "Federico Valverde",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Eduardo Camavinga",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Dani Ceballos",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Bernardo Silva",
+          "posicion": "Mediocentro Ofensivo"
+        },
+        {
+          "nombre": "Brahim Díaz",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Arda Güler",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Franco Mastantuono",
+          "posicion": "Mediocentro Ofensivo"
+        },
+        {
+          "nombre": "Vinícius Júnior",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Kylian Mbappé",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Rodrygo Goes",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Endrick",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Gonzalo García",
+          "posicion": "Delantero Centro"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Barcelona",
+      "ciudad": "Barcelona",
+      "entrenador": "Hansi Flick",
+      "jugadores": [
+        {
+          "nombre": "Marc-André ter Stegen",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Joan García",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Wojciech Szczęsny",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Iñaki Peña",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Diego Kochen",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Áron Yaakobishvili",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "João Cancelo",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Jules Koundé",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Ronald Araújo",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Pau Cubarsí",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Andreas Christensen",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Eric García",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Gerard Martín",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Álvaro Cortés",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Alejandro Balde",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Gerard Martín",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Xavi Espart",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Héctor Fort",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Jofre Torrents",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Gavi",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Pedri",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Frenkie de Jong",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Oriol Romeu",
+          "posicion": "Mediocentro Defensivo"
+        },
+        {
+          "nombre": "Marc Casadó",
+          "posicion": "Mediocentro Defensivo"
+        },
+        {
+          "nombre": "Marc Bernal",
+          "posicion": "Mediocentro Defensivo"
+        },
+        {
+          "nombre": "Fermín López",
+          "posicion": "Mediocentro Ofensivo"
+        },
+        {
+          "nombre": "Dani Olmo",
+          "posicion": "Mediocentro Ofensivo"
+        },
+        {
+          "nombre": "Tomás Marqués",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Guille Fernández",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Raphinha",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Ferran Torres",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Lamine Yamal",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Robert Lewandowski",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Marcus Rashford",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Anthony Gordon",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Roony Bardghji",
+          "posicion": "Extremo Izquierdo"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "Atlético de Madrid",
+      "ciudad": "Madrid",
+      "entrenador": "Diego Simeone",
+      "jugadores": [
+        {
+          "nombre": "Jan Oblak",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Juan Musso",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Mario de Luis",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Salvi Esquivel",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Álvaro Moreno",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Nahuel Molina",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Marcos Llorente",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "José María Giménez",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "David Hancko",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Robin Le Normand",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Marc Pubill",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Clément Lenglet",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Matteo Ruggeri",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Javi Galán",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Julio Díaz",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Rodrigo Mendoza",
+          "posicion": "Mediocentro Defensivo"
+        },
+        {
+          "nombre": "Johnny Cardoso",
+          "posicion": "Mediocentro Defensivo"
+        },
+        {
+          "nombre": "Morten Hjulmand",
+          "posicion": "Mediocentro Defensivo"
+        },
+        {
+          "nombre": "Koke",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Pablo Barrios",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Obed Vargas",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Thomas Lemar",
+          "posicion": "Mediocentro Ofensivo"
+        },
+        {
+          "nombre": "Álex Baena",
+          "posicion": "Mediocentro Ofensivo"
+        },
+        {
+          "nombre": "Thiago Almada",
+          "posicion": "Mediocentro Ofensivo"
+        },
+        {
+          "nombre": "Conor Gallagher",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Nico González",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Giuliano Simeone",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Carlos Martín",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Ademola Lookman",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Antoine Griezmann",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Alexander Sørloth",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Julián Álvarez",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Giacomo Raspadori",
+          "posicion": "Extremo Izquierdo"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nombre": "Sevilla FC",
+      "ciudad": "Sevilla",
+      "entrenador": "Luis García Plaza",
+      "jugadores": [
+        {
+          "nombre": "Odysseas Vlachodimos",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Ørjan Nyland",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Alberto Flores",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Rafael Romero",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "José Ángel Carmona",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Juanlu Sánchez",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Juan Iglesias",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Kike Salas",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Tanguy Nianzou",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Fábio Cardoso",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Federico Gattoni",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Marcão",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Andrés Castrín",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Oso",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Gabriel Suazo",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Adrià Pedrosa",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Nemanja Gudelj",
+          "posicion": "Mediocentro Defensivo"
+        },
+        {
+          "nombre": "Joan Jordán",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Lucien Agoumé",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Djibril Sow",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Manu Bueno",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Rubén Vargas",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Adnan Januzaj",
+          "posicion": "Mediocentro Ofensivo"
+        },
+        {
+          "nombre": "Peque Fernández",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Nico Guillén",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Edu Altozano",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Isaac Romero",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Akor Adams",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Alexis Sánchez",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Neal Maupay",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Chidera Ejuke",
+          "posicion": "Extremo Derecho"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "nombre": "Valencia CF",
+      "ciudad": "Valencia",
+      "entrenador": "Carlos Corberán",
+      "jugadores": [
+        {
+          "nombre": "Stole Dimitrievski",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Cristian Rivero",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Julen Agirrezabala",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Vicent Abril",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Pere García",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Thierry Correia",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Dimitri Foulquier",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Renzo Saravia",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Mouctar Diakhaby",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "José Copete",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Unai Núñez",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "César Tárrega",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Eray Cömert",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Rubén Iranzo",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "José Gayà",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Jesús Vázquez",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Guido Rodríguez",
+          "posicion": "Mediocentro Defensivo"
+        },
+        {
+          "nombre": "Pepelu",
+          "posicion": "Mediocentro Defensivo"
+        },
+        {
+          "nombre": "Baptiste Santamaría",
+          "posicion": "Mediocentro Defensivo"
+        },
+        {
+          "nombre": "Javi Guerra",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "André Almeida",
+          "posicion": "Mediocentro Ofensivo"
+        },
+        {
+          "nombre": "Filip Ugrinic",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Diego López",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Lucas Beltrán",
+          "posicion": "Mediocentro Ofensivo"
+        },
+        {
+          "nombre": "Luis Rioja",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Largie Ramazani",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Dani Raba",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Umar Sadiq",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Arnaut Danjuma",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Hugo Duro",
+          "posicion": "Delantero Centro"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "nombre": "Villarreal CF",
+      "ciudad": "Villarreal",
+      "entrenador": "Marcelino García Toral",
+      "jugadores": [
+        {
+          "nombre": "Luíz Júnior",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Arnau Tenas",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Diego Conde",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Rubén Gómez",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Alex Freeman",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Adrià Altimira",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Juan Foyth",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Santiago Mouriño",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Logan Costa",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Rafa Marín",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Willy Kambwala",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Pau Navarro",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Renato Veiga",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Ismael Sierra",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Sergi Cardona",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Alfonso Pedraza",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Daniel Budesca",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Jean Yves Valou",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Pape Gueye",
+          "posicion": "Mediocentro Defensivo"
+        },
+        {
+          "nombre": "Thomas Partey",
+          "posicion": "Mediocentro Defensivo"
+        },
+        {
+          "nombre": "Ramón Terrats",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Santi Comesaña",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Dani Parejo",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Carlos Macià",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Denis Suárez",
+          "posicion": "Mediocentro Ofensivo"
+        },
+        {
+          "nombre": "Alassane Diatta",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Tajon Buchanan",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Yeremy Pino",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Ilias Akhomach",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Pau Cabanes",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Alberto Moleiro",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Nicolas Pépé",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Manor Solomon",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Thiago Fernández",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Mahamoud Barry",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Gerard Moreno",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Georges Mikautadze",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Tani Oluwaseyi",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Ayoze Pérez",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Hugo López",
+          "posicion": "Delantero Centro"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "nombre": "Real Sociedad",
+      "ciudad": "San Sebastián",
+      "entrenador": "Pellegrino Matarazzo",
+      "jugadores": [
+        {
+          "nombre": "Álex Remiro",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Unai Marrero",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Aitor Fraga",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Theo Folgado",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Jon Aramburu",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Álvaro Odriozola",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Iñaki Rupérez",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Luken Beitia",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Igor Zubeldia",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Aritz Elustondo",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Kazunari Kita",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Duje Ćaleta-Car",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Jon Pacheco",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Jon Martín",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Aihen Muñoz",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Javi López",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Sergio Gómez",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Hamari Traoré",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Jon Gorrotxategi",
+          "posicion": "Mediocentro Defensivo"
+        },
+        {
+          "nombre": "Beñat Turrientes",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Yangel Herrera",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Carlos Soler",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Luka Sučić",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Arsen Zakharyan",
+          "posicion": "Mediocentro Ofensivo"
+        },
+        {
+          "nombre": "Pablo Marín",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Brais Méndez",
+          "posicion": "Mediocentro Ofensivo"
+        },
+        {
+          "nombre": "A. Lebarbier",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Tomás Carbonell",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Ibai Aguirre",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Mikel Goti",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Wesley",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Ander Barrenetxea",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Gonçalo Guedes",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Takefusa Kubo",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Dani Díaz",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Mikel Oyarzabal",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Orri Óskarsson",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Umar Sadiq",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Jon Karrikaburu",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Sheraldo Becker",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Carlos Fernández",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Job Ochieng",
+          "posicion": "Extremo Izquierdo"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "nombre": "Athletic Club",
+      "ciudad": "Bilbao",
+      "entrenador": "Ernesto Valverde",
+      "jugadores": [
+        {
+          "nombre": "Unai Simón",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Álex Padilla",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Julen Agirrezabala",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Andoni Gorosabel",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Iñigo Lekue",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Hugo Rincón",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Dani Vivian",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Aitor Paredes",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Aymeric Laporte",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Yeray Álvarez",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Unai Egiluz",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Jesús Areso",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Adama Boiro",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Yuri Berchiche",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Mikel Vesga",
+          "posicion": "Mediocentro Defensivo"
+        },
+        {
+          "nombre": "Iñigo Ruiz de Galarreta",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Mikel Jauregizar",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Unai Gómez",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Beñat Prados",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Oihan Sancet",
+          "posicion": "Mediocentro Ofensivo"
+        },
+        {
+          "nombre": "Peio Canales",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Selton Sánchez",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Unai Vencedor",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Beñat Gerenabarrena",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Álex Berenguer",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Nico Williams",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Iñaki Williams",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Gorka Guruzeta",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Maroan Sannadi",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Nico Serrano",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Urko Izeta",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Álvaro Djaló",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Robert Navarro",
+          "posicion": "Mediocentro"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "nombre": "Real Betis",
+      "ciudad": "Sevilla",
+      "entrenador": "Manuel Pellegrini",
+      "jugadores": [
+        {
+          "nombre": "Álvaro Vallés",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Pau López",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Adrián San Miguel",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Germán García",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Héctor Bellerín",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Aitor Ruibal",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Ángel Ortiz",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Pablo García",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Diego Llorente",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Natan",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Marc Bartra",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Valentín Gómez",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Junior Firpo",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Ricardo Rodríguez",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Fran García",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Marc Roca",
+          "posicion": "Mediocentro Defensivo"
+        },
+        {
+          "nombre": "Sofyan Amrabat",
+          "posicion": "Mediocentro Defensivo"
+        },
+        {
+          "nombre": "Facundo Bernal",
+          "posicion": "Mediocentro Defensivo"
+        },
+        {
+          "nombre": "Sergi Altimira",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Nelson Deossa",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Pablo Fornals",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Álvaro Fidalgo",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Rodrigo Riquelme",
+          "posicion": "Mediocentro Ofensivo"
+        },
+        {
+          "nombre": "Giovani Lo Celso",
+          "posicion": "Mediocentro Ofensivo"
+        },
+        {
+          "nombre": "Isco",
+          "posicion": "Mediocentro Ofensivo"
+        },
+        {
+          "nombre": "Dani Pérez",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Iván Corralejo",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Abde Ezzalzouli",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Antony",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Chimy Ávila",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Cédric Bakambu",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Cucho Hernández",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Gonzalo Petit",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "José Antonio Morante",
+          "posicion": "Extremo Izquierdo"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "nombre": "Rayo Vallecano",
+      "ciudad": "Madrid",
+      "entrenador": "Iñigo Pérez",
+      "jugadores": [
+        {
+          "nombre": "Augusto Batalla",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Dani Cárdenas",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Adrián Molina",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Juanpe",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Andrei Rațiu",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Iván Balliu",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Luiz Felipe",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Abdul Mumin",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Florian Lejeune",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Nobel Mendy",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Jozhua Vertrouwd",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Pelayo Fernández",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Pep Chavarría",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Alfonso Espino",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Marco de las Sías",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Sergio Lozano",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Pedro Díaz",
+          "posicion": "Mediocentro Defensivo"
+        },
+        {
+          "nombre": "Pathé Ciss",
+          "posicion": "Mediocentro Defensivo"
+        },
+        {
+          "nombre": "Gerard Gumbau",
+          "posicion": "Mediocentro Defensivo"
+        },
+        {
+          "nombre": "Unai López",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Óscar Valentín",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Samu Becerra",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Óscar Trejo",
+          "posicion": "Mediocentro Ofensivo"
+        },
+        {
+          "nombre": "Randy Nteka",
+          "posicion": "Mediocentro Ofensivo"
+        },
+        {
+          "nombre": "Ísí Palazón",
+          "posicion": "Mediocentro Ofensivo"
+        },
+        {
+          "nombre": "Álvaro García",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Carlos Martín",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Ilias Akhomach",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Jorge de Frutos",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Fran Pérez",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Alexandre Alemão",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Sergio Camello",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Raúl de Tomás",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Etienne Eto'o",
+          "posicion": "Delantero Centro"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "nombre": "CA Osasuna",
+      "ciudad": "Pamplona",
+      "entrenador": "Alessio Lisci",
+      "jugadores": [
+        {
+          "nombre": "Sergio Herrera",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Aitor Fernández",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Dimitrios Stamatakis",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Rafa Fernández",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Valentin Rosier",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Íñigo Arguibide",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Jorge Herrando",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Enzo Boyomo",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Alejandro Catena",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Mikel Serrano",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Asier Osambela",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Javi Galán",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Juan Cruz",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Abel Bretones",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Raúl Chasco",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Lucas Torró",
+          "posicion": "Mediocentro Defensivo"
+        },
+        {
+          "nombre": "Jon Moncayola",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Iker Muñoz",
+          "posicion": "Mediocentro Defensivo"
+        },
+        {
+          "nombre": "Aimar Oroz",
+          "posicion": "Mediocentro Ofensivo"
+        },
+        {
+          "nombre": "Moi Gómez",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Mauro Echegoyen",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Martín Pedroarena",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Unai Santos",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Rubén García",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Iker Benito",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Kike Barja",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Raúl García",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Ante Budimir",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Raúl Moro",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Víctor Muñoz",
+          "posicion": "Extremo Izquierdo"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "nombre": "Getafe CF",
+      "ciudad": "Getafe",
+      "entrenador": "José Bordalás",
+      "jugadores": [
+        {
+          "nombre": "David Soria",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Jiří Letáček",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Jorge Benito",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Diego Ferrer",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Kiko Femenía",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Allan Nyom",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Juan Iglesias",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Abdel Abqar",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Domingos Duarte",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Djeué Dakonam",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Sebastián Boselli",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Zaid Romero",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Marc Vilaplana",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Lucas Laso",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Diego Rico",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Davinchi",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Ismael Bekhoucha",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Jorge Montes",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Tito",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Mario Martín",
+          "posicion": "Mediocentro Defensivo"
+        },
+        {
+          "nombre": "Luis Milla",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Mauro Arambarri",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Javi Muñoz",
+          "posicion": "Mediocentro Ofensivo"
+        },
+        {
+          "nombre": "Veljko Birmancevic",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Alberto Risco",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Hugo Solozabal",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Adrián Riquelme",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Alejandro Mestanza",
+          "posicion": "Mediocentro Ofensivo"
+        },
+        {
+          "nombre": "Damián Cáceres",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Juanmi",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Borja Mayoral",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Martín Satriano",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Abu Kamara",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Álex Sancris",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Luis Vázquez",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Adrián Liso",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Mykyta Aleksandrov",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Joselu Pérez",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Yassin Tallal",
+          "posicion": "Extremo Derecho"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "nombre": "RC Celta de Vigo",
+      "ciudad": "Vigo",
+      "entrenador": "Claudio Giráldez",
+      "jugadores": [
+        {
+          "nombre": "Iván Villar",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Ionuț Radu",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Marc Vidal",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Marcos González Maestu",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Sergio Carreira",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Álvaro Núñez",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Javi Rueda",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Carl Starfelt",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Joseph Aidoo",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Manu Fernández",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Javi Rodríguez",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Yoel Lago",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Pablo Meixús",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Carlos Domínguez",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Mihailo Ristić",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Marcos Alonso",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Óscar Mingueza",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Ilaix Moriba",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Fer López",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Fran Beltrán",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Matías Vecino",
+          "posicion": "Mediocentro Defensivo"
+        },
+        {
+          "nombre": "Miguel Román",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Hugo Sotelo",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Damián Rodríguez",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Ángel Arcos",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Hugo González",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Andrés Antañón",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Hugo Burcio",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Borja Iglesias",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Ferran Jutglà",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Iago Aspas",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Bryan Zaragoza",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Williot Swedberg",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Pablo Durán",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Franco Cervi",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Hugo Álvarez",
+          "posicion": "Extremo Derecho"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "nombre": "Elche CF",
+      "ciudad": "Elche",
+      "entrenador": "Eder Sarabia",
+      "jugadores": [
+        {
+          "nombre": "Matías Dituro",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Iñaki Peña",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Alejandro Iturbe",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Adrià Pedrosa",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Pedro Bigas",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "John Donald",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Léo Pétrot",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "David Affengruber",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Víctor Chust",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Bema Sina",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Albert Niculaesei",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "David Delgado",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Pablo Belda",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Nico Salvador",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Héctor Fort",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Buba Sangaré",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Federico Redondo",
+          "posicion": "Mediocentro Defensivo"
+        },
+        {
+          "nombre": "Marc Aguado",
+          "posicion": "Mediocentro Defensivo"
+        },
+        {
+          "nombre": "Gonzalo Villar",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Aleix Febas",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Martim Neto",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Josan",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Rodrigo Mendoza",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Antonio Martínez",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Alex Herráiz",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Yago Santiago",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "André Silva",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Rafa Mir",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Germán Valera",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Tete Morente",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Grady Diangana",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Álvaro Rodríguez",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Lucas Cepeda",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Piri",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Adam Boayar",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Álex Sánchez",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Juan Piera",
+          "posicion": "Delantero Centro"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "nombre": "UD Levante",
+      "ciudad": "Valencia",
+      "entrenador": "Luís Castro",
+      "jugadores": [
+        {
+          "nombre": "Mathew Ryan",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Pablo Cuñat",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Alfonso Pastor",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Alejandro Primo",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Jeremy Toljan",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Víctor García",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Matías Moreno",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Alan Matturro",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Adrián de la Fuente",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Unai Elgezabal",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Jorge Cabello",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Nacho Pérez",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Manu Sánchez",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Diego Pampín",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Jon Ander Olasagasti",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Pablo Martínez",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Unai Vencedor",
+          "posicion": "Mediocentro Defensivo"
+        },
+        {
+          "nombre": "Oriol Rey",
+          "posicion": "Mediocentro Defensivo"
+        },
+        {
+          "nombre": "Kervin Arriaga",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Ugo Raghouber",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Carlos Álvarez",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Iker Losada",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Víctor Fernández",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Roger Brugué",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Francisco Cortés",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Pablo Rosón",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Iván Romero",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "José Luis Morales",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Goduine Koyalipou",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Carlos Espí",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Kareem Tunde",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Etta Eyong",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Paco Cortés",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Tai Abed",
+          "posicion": "Delantero Centro"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "nombre": "RCD Espanyol",
+      "ciudad": "Barcelona",
+      "entrenador": "Manolo González",
+      "jugadores": [
+        {
+          "nombre": "Marko Dmitrović",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Ángel Fortuño",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Pol Tristán",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Llorenç Serred",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Omar El Hilali",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Rubén Sánchez",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Leandro Cabrera",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Fernando Calero",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Miguel Rubio",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Pablo Ramón",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Clemens Riedel",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Carlos Romero",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "José Salinas",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Roger Hinojo",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Edu Expósito",
+          "posicion": "Mediocentro Defensivo"
+        },
+        {
+          "nombre": "Charles Pickel",
+          "posicion": "Mediocentro Defensivo"
+        },
+        {
+          "nombre": "Urko González de Zárate",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Pol Lozano",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Ramon Terrats",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Rafel Bauzà",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Ferrán Gómez",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Javier Hernández",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Miguel Londoño",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Antoniu Roca",
+          "posicion": "Mediocentro Ofensivo"
+        },
+        {
+          "nombre": "Pere Milla",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Javi Puado",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Cyril Ngonge",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Jofre Carreras",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Tyrhys Dolan",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Alex Almansa",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Luca Koleosho",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Lluc Castell",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Roberto Fernández",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Kike García",
+          "posicion": "Delantero Centro"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "nombre": "Deportivo Alavés",
+      "ciudad": "Vitoria-Gasteiz",
+      "entrenador": "Quique Sánchez Flores",
+      "jugadores": [
+        {
+          "nombre": "Antonio Sivera",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Raúl Fernández",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Grégoire Świderski",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Jon Pacheco",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Facundo Garcés",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Youssef Enríquez Lekhedim",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Nahuel Tenaglia",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Jonny Otto",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Ville Koski",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Moussa Diarra",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Víctor Parada",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Ángel Pérez",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Egoitz Muñoz",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Xanet Oláiz",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Carlos Ballestero",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Paco Sanz",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Denis Suárez",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Ander Guevara",
+          "posicion": "Mediocentro Defensivo"
+        },
+        {
+          "nombre": "Antonio Blanco",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Carles Aleñá",
+          "posicion": "Mediocentro Ofensivo"
+        },
+        {
+          "nombre": "Jon Guridi",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Pablo Ibáñez",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Calebe",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Abderrahman Rebbach",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Carlos Protesoni",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Lander Pinillos",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Gustavo Albarracín",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Toni Martínez",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Lucas Boyé",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Ibrahim Diabate",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Carlos Vicente",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Mariano Díaz",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Diego Morcillo",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Aitor Mañas",
+          "posicion": "Delantero Centro"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "nombre": "Real Racing Club",
+      "ciudad": "Santander",
+      "entrenador": "José Alberto López",
+      "jugadores": [
+        {
+          "nombre": "Jokin Ezkieta",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Simon Eriksson",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Plamen Andreev",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Laro Gómez",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Álvaro Jiménez",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Facundo González",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Mario García",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Javi Castro",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Manu Hernando",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Marco Sangalli",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Pablo Ramón",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Jorge Salinas",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Álvaro Mantilla",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Aitor Crespo",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Carlos Sánchez",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Maguette Gueye",
+          "posicion": "Mediocentro Defensivo"
+        },
+        {
+          "nombre": "Gustavo Puerta",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Aritz Aldasoro",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Sergio Martínez",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Íñigo Sainz-Maza",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Neco Celorio",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Belal Ateya",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Sergio Canales",
+          "posicion": "Mediocentro Ofensivo"
+        },
+        {
+          "nombre": "Damián Rodríguez",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Iñigo Vicente",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Andrés Martín",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Suleiman Camara",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Yeray Cabanzón",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Giorgi Guliashvili",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Asier Villalibre",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Juan Carlos Arana",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Manex Lozano",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Jeremy Arévalo",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Izan Yurrieta",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Santiago Franco",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Jaime Mata",
+          "posicion": "Delantero Centro"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "nombre": "Málaga CF",
+      "ciudad": "Málaga",
+      "entrenador": "Pellicer",
+      "jugadores": [
+        {
+          "nombre": "Alfonso Herrero",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Carlos López",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Rafita Garrido",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Miguel Loureiro",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Fernando Calero",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Diego Murillo",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Einar Galilea",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Carlos Puga",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Álex Pastor",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Ángel Recio",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Moussa Diarra",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Dani Sánchez",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Giacomo Quagliata",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Sergio Escudero",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Izan Merino",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Juanpe Jiménez",
+          "posicion": "Mediocentro Defensivo"
+        },
+        {
+          "nombre": "Ramón Enríquez",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Pablo Arriaza",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Dani Lorenzo",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Rafa Rodríguez",
+          "posicion": "Mediocentro Ofensivo"
+        },
+        {
+          "nombre": "Aarón Ochoa",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Juan Cruz",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Joaquín Muñoz",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Julen Lobete",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Haitam Abaida",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "Chupe",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "David Larrubia",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Adrián Niño",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Eneko Jauregi",
+          "posicion": "Delantero Centro"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "nombre": "RC Deportivo de la Coruña",
+      "ciudad": "La Coruña",
+      "entrenador": "Fernando Vázquez",
+      "jugadores": [
+        {
+          "nombre": "Daniel Bachmann",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Germán Parreño",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Eric Puerto",
+          "posicion": "Portero"
+        },
+        {
+          "nombre": "Adrià Altimira",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Miguel Loureiro",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Ximo Navarro",
+          "posicion": "Lateral Derecho"
+        },
+        {
+          "nombre": "Lucas Noubi",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Dani Barcia",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Arnau Comas",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "José Ángel Jurado",
+          "posicion": "Central"
+        },
+        {
+          "nombre": "Giacomo Quagliata",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "Sergio Escudero",
+          "posicion": "Lateral Izquierdo"
+        },
+        {
+          "nombre": "José Gragera",
+          "posicion": "Mediocentro Defensivo"
+        },
+        {
+          "nombre": "Diego Villares",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Charlie Patiño",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Rubén López",
+          "posicion": "Mediocentro"
+        },
+        {
+          "nombre": "Mario Soriano",
+          "posicion": "Mediocentro Ofensivo"
+        },
+        {
+          "nombre": "Yeremay Hernández",
+          "posicion": "Extremo Izquierdo"
+        },
+        {
+          "nombre": "David Mella",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Luismi Cruz",
+          "posicion": "Extremo Derecho"
+        },
+        {
+          "nombre": "Stoichkov",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Bil Nsongo",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Zakaria Eddahchouri",
+          "posicion": "Delantero Centro"
+        },
+        {
+          "nombre": "Mohamed Bouldini",
+          "posicion": "Delantero Centro"
+        }
+      ]
+    }
+  ]
+}
